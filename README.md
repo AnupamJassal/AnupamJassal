@@ -3,16 +3,19 @@
     
 ### Hi there 👋, this is Anupam 
 
-### A learner and explorer who loves to do technical experiments
+ !!! A Geek and Explorer who loves to try new stuffs !!!
+ 
     
 🖥️ My LinkedIn Profile: https://www.linkedin.com/in/anupam-jassal-67574217a/ 
 
 📎My Portfolio :  https://anupam10023.github.io/anupamport.github.io/
 
+🔗My Discord url: https://discord.com/channels/@me
+
 🤠 About me -
-- 📫 How to reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ 
+- 📫 Reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ 
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: Loves technology and gadgets !!!
+- ⚡ Fun fact: Loves technology and adventure !!!
 </p>
 
 ## 🚀 Languages and Tools:
