@@ -1,15 +1,15 @@
 <img align="right"  src="https://imgur.com/Tm0GqyD.png" width="450"  height="590">
-<p style="text-align: left">
+<p style="text-align:left">
     
 ### Hi there 👋, this is Anupam ###
  !!! A Geek and Explorer who loves to try new stuff !!!
 
 🤠  Let's Meet #
 
-👨‍💼My LinkedIn Profile: https://www.linkedin.com/in/anupam-jassal-67574217a/ 
-🔗 My Discord URL       : https://discord.com/channels/@me
-📬 Email   : anupamjassal@gmail.com
-💡 Fun fact : ❤️ Loves Technology & Adventure 🌎
+-👨‍💼My LinkedIn Profile: https://www.linkedin.com/in/anupam-jassal-67574217a/ 
+-🔗 My Discord URL       : https://discord.com/channels/@me
+-📬 Email   : anupamjassal@gmail.com
+-💡 Fun fact : ❤️ Loves Technology & Adventure 🌎
 </p>
 
 ## 🚀 Languages and Tools: 
