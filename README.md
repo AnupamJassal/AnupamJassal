@@ -12,10 +12,11 @@
 
 🔗My Discord url: https://discord.com/channels/@me
 
-🤠 About me -
-- 📫 Reach me:https://www.linkedin.com/in/anupam-jassal-67574217a/ 
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact: Loves technology and adventure !!!
+🤠  Let's Meet ###
+
+- 👨‍💼 Reach me : https://www.linkedin.com/in/anupam-jassal-67574217a/ - OR -
+- 📬 Email    : anupamjassal@gmail.com
+- 💡 Fun fact : ❤️ Loves Technology & Adventure 🌎
 </p>
 
 ## 🚀 Languages and Tools: 
