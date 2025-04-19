@@ -8,13 +8,11 @@
     
 🖥️ My LinkedIn Profile: https://www.linkedin.com/in/anupam-jassal-67574217a/ 
 
-📎My Portfolio :  https://anupam10023.github.io/anupamport.github.io/
-
 🔗My Discord url: https://discord.com/channels/@me
 
 🤠  Let's Meet ###
 
-- 👨‍💼 Reach me : https://www.linkedin.com/in/anupam-jassal-67574217a/ - OR -
+- 👨‍💼 Reach me : https://www.linkedin.com/in/anupam-jassal-67574217a/
 - 📬 Email    : anupamjassal@gmail.com
 - 💡 Fun fact : ❤️ Loves Technology & Adventure 🌎
 </p>
