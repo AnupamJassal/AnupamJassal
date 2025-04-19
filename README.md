@@ -16,7 +16,6 @@
 </p>
 
 ## 🚀 Languages and Tools: 
-
 <p>
     <a href="https://aws.amazon.com/q/?nc2=h_ql_prod_l1_q" target="_blank"> <img src="https://img.icons8.com/?size=50&id=e6uRfPIDgoXi&format=png&color=000000"/></a>
     <a href="https://openai.com/" target="_blank"> <img src="https://img.icons8.com/?size=50&id=u9JE2GppVZoD&format=png&color=000000"/></a>
