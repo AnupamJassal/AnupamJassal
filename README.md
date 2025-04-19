@@ -7,8 +7,11 @@
 🤠  Let's Meet #
 
 -👨‍💼My LinkedIn Profile: https://www.linkedin.com/in/anupam-jassal-67574217a/ 
+
 -🔗 My Discord URL       : https://discord.com/channels/@me
+
 -📬 Email   : anupamjassal@gmail.com
+
 -💡 Fun fact : ❤️ Loves Technology & Adventure 🌎
 </p>
 
